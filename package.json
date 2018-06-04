@@ -25,5 +25,8 @@
   "homepage": "https://github.com/leadiv/misce#readme",
   "devDependencies": {
     "jest": "^23.1.0"
+  },
+  "dependencies": {
+    "wordlist-english": "^1.2.0"
   }
 }
