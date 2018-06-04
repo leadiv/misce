@@ -1,0 +1,29 @@
+{
+  "name": "misce",
+  "version": "0.1.0",
+  "description": "A game to unscramble a set of letters into words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leadiv/misce.git"
+  },
+  "keywords": [
+    "word",
+    "game",
+    "unscramble",
+    "letters"
+  ],
+  "author": "Paul Borrego <leadiv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leadiv/misce/issues"
+  },
+  "homepage": "https://github.com/leadiv/misce#readme",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
